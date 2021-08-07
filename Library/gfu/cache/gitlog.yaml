@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-08-07T16:28:31.802+02:00
+  initializedAtString: 2021-08-07T16:26:14.103+02:00
+  log:
+  - commitID: 6aef3649e3b870bbfa43cfcd93bec1b8244c25ef
+    mergeA: 
+    mergeB: 
+    authorName: '[Martijen]'
+    authorEmail: jennifer_martin@outlook.fr
+    commitEmail: jennifer_martin@outlook.fr
+    commitName: '[Martijen]'
+    summary: Initial commit
+    description: 
+    timeString: 2021-08-07T16:26:13.000+02:00
+    commitTimeString: 2021-08-07T16:26:13.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\jmrtn\Repos\Unity2D\Laser_Defender\Laser Defender\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\jmrtn\Repos\Unity2D\Laser_Defender\Laser Defender\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\jmrtn\Repos\Unity2D\Laser_Defender\Laser Defender\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
